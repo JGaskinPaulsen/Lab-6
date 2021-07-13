@@ -194,5 +194,6 @@ public class SciCalculator {
             }
 
         }
+        //this is a comment for lab 6//
     }
     }
